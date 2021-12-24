@@ -1,13 +1,19 @@
 # grim 
 
 amiga game written in asm. Old stuff. 
+Use Devpac v3.18 and standard Include2.0 files to compile
+assign include: dh0:include2.0
+genam grim005
 
-![Alt text](https://github.com/asman2000/grim/raw/master/screenshots/grim-game.png?raw=true "WinUAE screenshot")
-
-Use Asm-One to compile. 
+![Alt text](https://github.com/BigT-Amiga/grim/blob/master/screenshots/grim-game.png?raw=true "WinUAE screenshot")
 
 It's very simple (primitive) infinite game. The goal is to catch key and don't touch the random generated obstacles.
 
-Controls: cursors + key a. 
+Controls: 
+A - To start game
+M - Toggle music on/off (restart)
+I - Toggle information/credits
+arrow keys - move character 
+ESC/LMB - exit to CLI
 
-To exit to OS press ESC any time.
+![Alt text](https://github.com/BigT-Amiga/grim/blob/master/screenshots/grim005-title.png?raw=true "WinUAE screenshot")
