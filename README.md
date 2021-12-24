@@ -1,6 +1,6 @@
 # grim 
 
-amiga game written in asm. Old stuff.
+amiga game written in asm. Old stuff. The main goal of this version was to lean how to integrate music and sfx into a game. 
 
 Use Devpac v3.18 and standard Include2.0 files to compile
 
